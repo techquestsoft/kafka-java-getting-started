@@ -1,0 +1,9 @@
+{
+  "kind": "stargate-namespace",
+  "action": "create",
+  "spec": {
+    "id": "asdfsadfas",
+    "namespace": "expressexm",
+    "sloEmail": "bac@abc.com"
+  }
+}
